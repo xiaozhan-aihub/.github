@@ -19,6 +19,7 @@ resp = client.chat.completions.create(model="gpt-6-luna", messages=[{"role": "us
 print(resp.choices[0].message.content)
 ```
 
+- [Deski](https://github.com/xiaozhan-aihub/deski)：本地 AI 数字员工，macOS / Windows 桌面客户端，在自己电脑上读文件、改代码、跑命令、写文档（[下载](https://deski.dflop.top)）。A local AI digital coworker for macOS and Windows.
 - [api-examples](https://github.com/xiaozhan-aihub/api-examples)：接入示例（Python / Node.js / curl）：对话、工具调用、识图、生图、视频、音乐、语音合成。Runnable examples.
 - [ai-model-api-pricing](https://github.com/xiaozhan-aihub/ai-model-api-pricing)：全部模型的 API 价格表，每日更新，按类别和厂商分页，CC BY 4.0 开放数据（[Hugging Face](https://huggingface.co/datasets/xiaozhan-aihub/ai-model-api-pricing)）。Daily AI model API pricing, open data.
 - 官网 Website [model.dflop.top](https://model.dflop.top) · 文档 Docs [model.dflop.top/docs](https://model.dflop.top/docs) · 模型广场 [models](https://model.dflop.top/models) · 给大模型读的索引 [llms.txt](https://model.dflop.top/llms.txt)
