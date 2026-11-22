@@ -1,8 +1,8 @@
 ## 小战AIhub · XiaoZhan AIhub
 
-多协议大模型 API 网关与 AI 创作平台。一把 `sk-gpushare-` 密钥，用 OpenAI / Anthropic / Google Gemini SDK 调用 120 多款对话、图像、视频、音乐与语音模型。
+小战AIhub 官方 GitHub 组织。官网：[model.dflop.top](https://model.dflop.top)。
 
-A multi-protocol AI model gateway and creation platform: one `sk-gpushare-` key lets the OpenAI, Anthropic and Google Gemini SDKs call 120+ chat, image, video, music and speech models.
+The official GitHub organization of XiaoZhan AIhub. Website: [model.dflop.top](https://model.dflop.top).
 
 | 类别 Category | 可调用的模型（部分）Models (selection) |
 |---|---|
